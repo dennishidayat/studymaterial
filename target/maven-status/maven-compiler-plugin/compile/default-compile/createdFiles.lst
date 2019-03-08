@@ -1,0 +1,9 @@
+com\enigma\task\studymaterial\dto\StudyMaterialDto.class
+com\enigma\task\studymaterial\dto\CommonResponse.class
+com\enigma\task\studymaterial\model\StudyMaterial.class
+com\enigma\task\studymaterial\dao\StudyMaterialDao.class
+com\enigma\task\studymaterial\config\DaoSpringConfig.class
+com\enigma\task\studymaterial\repository\StudyMaterialRepository.class
+com\enigma\task\studymaterial\dao\impl\StudyMaterialDaoImpl.class
+com\enigma\task\studymaterial\exception\CustomException.class
+com\enigma\task\studymaterial\dao\impl\BaseImpl.class
